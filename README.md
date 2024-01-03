@@ -1,4 +1,3 @@
-# SystemsAndMethodsForBigAndUnstructuredData_Project
 
 # Systems and Methods for Big and Unstructured Data Project
 
