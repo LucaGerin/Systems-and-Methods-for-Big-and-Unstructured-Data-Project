@@ -9,3 +9,8 @@ As our group was composed of three people, we had to work on two separate DBMS t
 
 DISCLAIMER:
 We take no accountability for the use that may be done of the code and files updated here, especially if the use by someone else of our work results in accusations plagiarism against him.
+
+SOURCES:
+the datasets utilized can be found at the links:
+https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
