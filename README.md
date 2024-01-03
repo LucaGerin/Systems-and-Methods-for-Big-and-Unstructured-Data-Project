@@ -1,16 +1,24 @@
 # SystemsAndMethodsForBigAndUnstructuredData_Project
 
-Project for the course Systems and Methods for Big and Unstructured Data at Politecnico di Milano during academinc year 2023-2024
+# Systems and Methods for Big and Unstructured Data Project
 
-The project consists on, firstly, choosing a DB Technology of interest among Neo4j, MongoDB, and Elasticsearch, and a Dataset (different from those presented during the course), including at least 20’000 data points. 
-Then, Import the dataset in the chosen DBMS and perform various queries of different complexities with a good complexity variety.
+This project was completed as part of the Systems and Methods for Big and Unstructured Data course at Politecnico di Milano during the academic year 2023-2024.
 
-As our group was composed of three people, we had to work on two separate DBMS technologies.
+## Overview
 
-DISCLAIMER:
-We take no accountability for the use that may be done of the code and files updated here, especially if the use by someone else of our work results in accusations plagiarism against him.
+The primary objective of this project was to select a DB Technology from among Neo4j, MongoDB, and Elasticsearch, along with a dataset containing a minimum of 20,000 data points. The project involved importing the dataset into the chosen DBMS and performing diverse queries of varying complexities to showcase a range of capabilities.
 
-SOURCES:
-the datasets utilized can be found at the links:
-https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023
-https://www.kaggle.com/datasets/rmisra/news-category-dataset
+## Group Work
+
+Given our group's composition of three individuals, we worked on two separate DBMS technologies to cover a wider spectrum of techniques and functionalities.
+
+## Disclaimer
+
+We want to highlight that we bear no responsibility for any use of the code and files present in this repository. Any usage by a third party resulting in accusations of plagiarism is beyond our control and accountability.
+
+## Sources
+
+The datasets used for this project can be accessed from the following links:
+
+- [Crimes in Los Angeles 2020-2023](https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023)
+- [News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
