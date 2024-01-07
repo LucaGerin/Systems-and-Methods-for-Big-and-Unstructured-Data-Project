@@ -1,0 +1,7 @@
+FIRST DATASET - CRIMES IN LA:
+https://www.kaggle.com/datasets/asaniczka/crimes-in-los-angeles-2020-2023
+
+
+SECOND DATASET - NEWS HEADLINES:
+https://www.kaggle.com/datasets/rmisra/news-category-dataset
+
